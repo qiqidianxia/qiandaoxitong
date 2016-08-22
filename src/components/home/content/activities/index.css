@@ -1,0 +1,42 @@
+.container-wrapper{
+  width:800px;
+  height:1000px;
+  position:fixed;
+}
+.publishActivity{
+  border-radius: 5px;
+  color: white;
+  background-color: #2f6fad;
+  float:left;
+}
+.unpublishedactivity{
+  color:red;
+}
+.start-btn{
+  background-color: #2f6fad;
+  float:left;
+  color:white;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.activityStatus{
+  width:800px;
+  height:40px;
+  position:relative;
+  left:20px;
+  top:90px;
+}
+.container-top{
+  width: 800px;
+  height:20px;
+  position:relative;
+  left:0px;
+  top:0px;
+}
+.activityBox{
+  position:relative;
+  width: 700px;
+  height:30px;
+  left:20px;
+  top:50px;
+}

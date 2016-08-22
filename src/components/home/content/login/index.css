@@ -1,0 +1,47 @@
+.loginBox{
+  width:600px;
+  height:400px;
+  border:1px solid black;
+  position:fixed;
+  left:60px;
+  top:70px;
+}
+.text{
+  position:relative;
+  width:400px;
+  height:15px;
+  padding:0;
+  margin:0;
+  left:100px;
+  top:15px;
+}
+.inputNum{
+  position:relative;
+  left:100px;
+  top:45px;
+  width:400px;
+  height:15px;
+}
+.input-box{
+  float:left;
+  padding-left: 5px;
+  border:1px solid gainsboro;
+  margin-left: 10px;
+}
+.inputPass{
+  position:relative;
+  left:100px;
+  top:70px;
+  width:400px;
+  height:15px;
+}
+.login-btn{
+  position:relative;
+  left:250px;
+  top:300px;
+  width:50px;
+  height:20px;
+  background-color: gray;
+  color:#000000;
+  border-radius: 5px;
+}

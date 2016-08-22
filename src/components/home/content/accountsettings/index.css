@@ -1,0 +1,51 @@
+
+
+
+.presonInfo{
+line-height: 60px;
+  width:80px;
+  color:blue;
+}
+.changePass{
+  margin-left: 10px;
+}
+.rightBoxTop{
+  width:800px;
+  height:60px;
+}
+.rightBox{
+  width:800px;
+  height:1000px;
+}
+.rightBoxBottom{
+  width:800px;
+  height:960px;
+
+}
+.inputFirst{
+  width:100px;
+  height:15px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.inputSecond{
+  width:100px;
+  height:15px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.inputBox{
+  width:80px;
+  height:15px;
+  border:1px solid rgb(153,153,153);
+}
+.confirmButton{
+  width:30px;
+  height:15px;
+  margin-left: 50px;
+  border:1px solid #000000;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 15px;
+}

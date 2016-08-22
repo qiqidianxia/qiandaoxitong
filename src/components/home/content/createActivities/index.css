@@ -1,0 +1,29 @@
+.form-group{
+  margin-top: 15px;
+  margin-left: 20px;
+  width:750px;
+  height:950px;
+  padding: 0;
+  border: 0;
+}
+.input-container{
+  margin:0 ;
+  border:0;
+}
+.inputBox{
+  float:left;
+  width:250px;
+  height:10px;
+  border:1px solid gainsboro;
+  margin-left: 10px;
+}
+.inputBottom{
+  width:750px;
+  height:80px;
+}
+.bottom-btn{
+  color:white;
+  border-radius: 5px;
+  background-color: #0b97c4;
+  float:left;
+}
